@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restro/static/css/main.f88dbd5b.css",
+    "main.js": "/restro/static/js/main.26bfad01.js",
+    "static/media/Header.jpeg": "/restro/static/media/Header.4c547b03b0edfa9b1dbd.jpeg",
+    "static/media/2.png": "/restro/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/food.jpg": "/restro/static/media/food.cf147a43b72ddca90fd6.jpg",
+    "static/media/1.jpg": "/restro/static/media/1.960ff282036e3c4e63eb.jpg",
+    "static/media/2.jpg": "/restro/static/media/2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/Fries With Leaves Dish.webp": "/restro/static/media/Fries With Leaves Dish.05af52456c008cfc9024.webp",
+    "static/media/pancake.jpeg": "/restro/static/media/pancake.db1248308ada9e90211f.jpeg",
+    "static/media/food3.jpg": "/restro/static/media/food3.f9826743a7bb81722fd1.jpg",
+    "static/media/stek.jpeg": "/restro/static/media/stek.cc0aa3070fee5c7b7c56.jpeg",
+    "index.html": "/restro/index.html",
+    "main.f88dbd5b.css.map": "/restro/static/css/main.f88dbd5b.css.map",
+    "main.26bfad01.js.map": "/restro/static/js/main.26bfad01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88dbd5b.css",
+    "static/js/main.26bfad01.js"
+  ]
+}
